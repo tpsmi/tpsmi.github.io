@@ -12,4 +12,4 @@ We will apply state-of-the-art multimodal machine learning to explore the illust
 
 Excited to work on this project with Paul Fyfe, Ben Lee, and Julia Thomas! 
 
-Read more about the project in our [proposal](/assets/pdf/multimodal.pdf) or on the<a href="https://rs4vp.org/congratulations-to-our-2023-award-winners/">RSVP website</a>
+Read more about the project in our [proposal](/assets/pdf/multimodal.pdf) or on the<a href="https://rs4vp.org/congratulations-to-our-2023-award-winners/"> RSVP website</a>

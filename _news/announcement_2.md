@@ -6,7 +6,7 @@ inline: false
 related_posts: false
 ---
 
-Happy to announce that a roundtable on my book The European Illustrated Press (2020) was published in Media History!
+I am happy to announce that a roundtable on my book The European Illustrated Press (2020) was published in Media History!
 
 Grateful for the thoughtful reviews of <a href=|https://www.tandfonline.com/doi/abs/10.1080/13688804.2023.2220191">Peter Sinnema</a>, <a href="https://www.tandfonline.com/doi/abs/10.1080/13688804.2023.2220195">Marguérite Corporaal</a>, and <a href="https://www.tandfonline.com/doi/abs/10.1080/13688804.2023.2220196"> Michael de Nie</a>.
 
