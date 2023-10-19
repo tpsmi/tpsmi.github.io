@@ -1,6 +1,6 @@
 ---
 layout: post
-title: :memo: Article "A multimodal turn in Digital Humanities. Using contrastive machine learning models to explore, enrich, and analyze digital visual historical collections" published in Digital Scholarship in the Humanities
+title: Article "A multimodal turn in Digital Humanities. Using contrastive machine learning models to explore, enrich, and analyze digital visual historical collections" published in Digital Scholarship in the Humanities :+1: :memo:
 date: 2023-04-06 07:59:00-0400
 inline: true
 related_posts: false

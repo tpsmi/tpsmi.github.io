@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Amsterdam School for Historical Studies</p>
-    <p>University of Amsterdam,</p>
+    <p></p>
+    <p></p>
     <p></p>
 
 news: true  # includes a list of news items

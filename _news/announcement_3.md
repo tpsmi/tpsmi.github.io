@@ -1,6 +1,6 @@
 ---
 layout: post
-title: :trophy: 2023 RSVP Field Development Grant for our project ‘Multimodal AI, Image Analysis, and the Illustrated Periodical Press. ’
+title: 2023 RSVP Field Development Grant for our project ‘Multimodal AI, Image Analysis, and the Illustrated Periodical Press.’ :trophy:
 date: 2023-07-07 07:59:00-0400
 inline: true
 related_posts: false
