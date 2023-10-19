@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://tpsmi.github.io/sitemap.xml
