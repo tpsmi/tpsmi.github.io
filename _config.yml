@@ -7,8 +7,8 @@ first_name: Thomas
 middle_name: 
 last_name: Smits
 email: t.p.smits@uva.nl
-description: > Thomas Smits website # the ">" symbol means to ignore newlines until "footer_text:"
-  I am a scholar of modern visual (news) culture. My work is located at the intersection of the (digital) humanities (history, memory- and visual culture studies) and social sciences (media- and social movement studies). It has been published in top-ranking journals and recognized with travel grants, invited lectures, fellowships, and a book prize for my first monograph. Fascinated by the increasingly visual nature of modern societies, I pioneered the application of Artificial Intelligence (AI) to analyse large collections of historical digitized images. Convinced of the benefits of interdisciplinary exchange, I used critical insights from the SSH to further the development of culturally-responsive AI
+description: >
+  Thomas Smits website >
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
