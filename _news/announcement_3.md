@@ -2,7 +2,7 @@
 layout: post
 title: 2023 RSVP Field Development Grant for our project ‘Multimodal AI, Image Analysis, and the Illustrated Periodical Press.’
 date: 2023-07-07 07:59:00-0400
-inline: true
+inline: false
 related_posts: false
 ---
 

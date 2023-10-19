@@ -2,7 +2,7 @@
 layout: post
 title: Roundtable on The European Illustrated Press in Media History.
 date: 2023-06-12 07:59:00-0400
-inline: true
+inline: false
 related_posts: false
 ---
 
