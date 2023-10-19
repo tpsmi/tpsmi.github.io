@@ -1,32 +1,29 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: Article "Distant reading 940,000 online circulations of 26 iconic photographs" published in News Media & Society
+date: 2023-10-18 16:11:00-0400
 inline: false
 related_posts: false
 ---
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
+Already online for two years, but our article (with Ruben Ros) "Distant reading 940,000 online circulations of 26 iconic photographs" was officially published #OA in New Media & Society.
 
-***
+<a href="https://journals.sagepub.com/doi/full/10.1177/14614448211049459">Link to article</a>
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
+#### Abstract
 
-#### Hipster list
-<ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
-</ul>
+How do digital media impact the meaning of iconic photographs? Recent studies have suggested that online circulation, especially in a memeified form, might lead to the erosion, fracturing, or collapsing of the original contextual meaning of iconic pictures. Introducing a distant reading methodology to the study of iconic photographs, we apply the Google Cloud Vision Application Programming Interface (GCV API) to retrieve 940,000 online circulations of 26 iconic images between 1995 and 2020. We use document embeddings, a Natural Language Processing technique, to map in what contexts iconic photographs are circulated online. The article demonstrates that constantly changing configurations of contextual imagetexts, self-referential image-texts, and non-referential image/texts shape the online live of iconic photographs: ebbs and flows of slowly disappearing, suddenly resurfacing, and newly found meanings. While iconic photographs might not need captions to speak, this article argues that a large-scale analysis of texts can help us better grasp what they say.
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/CheHigh.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/7.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+   Che Guevara
+</div>
 
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
 
-***
-
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
-
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
-
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+ 
