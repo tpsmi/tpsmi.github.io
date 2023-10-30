@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Starting Today as Assistant Professor of Digital History and AI
-date: 2023-11-1 16:11:00-0400
+date: 2023-10-30  12:11:00-0400
 inline: false
 related_posts: false
 ---
