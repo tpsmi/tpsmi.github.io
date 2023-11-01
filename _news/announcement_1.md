@@ -20,5 +20,5 @@ Until recently, most research in the Digital Humanities (DH) was monomodal, mean
     </div>
 </div>
 <div class="caption">
-   Che Guevara
+   CLIP
 </div>

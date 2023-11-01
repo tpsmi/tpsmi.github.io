@@ -10,6 +10,15 @@ The Research Society for Victorian Periodicals awarded the 2023 Field Developmen
 
 We will apply state-of-the-art multimodal machine learning to explore the illustrated world(s) of the nineteenth-century press!
 
-Excited to work on this project with Paul Fyfe, Ben Lee, and Julia Thomas! 
+Excited to work on this project with Paul Fyfe, Ben Lee, and Julia Thomas!
 
 Read more about the project in our [proposal](/assets/pdf/multimodal.pdf) or on the<a href="https://rs4vp.org/congratulations-to-our-2023-award-winners/"> RSVP website</a>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/iln.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+   The first front-page of the Illustrated London News (14 May 1842)
+</div>

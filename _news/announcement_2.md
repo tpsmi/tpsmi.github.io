@@ -11,3 +11,12 @@ I am happy to announce that a roundtable on my book The European Illustrated Pre
 Grateful for the thoughtful reviews of <a href="https://www.tandfonline.com/doi/abs/10.1080/13688804.2023.2220191">Peter Sinnema</a>, <a href="https://www.tandfonline.com/doi/abs/10.1080/13688804.2023.2220195">Marguérite Corporaal</a>, and <a href="https://www.tandfonline.com/doi/abs/10.1080/13688804.2023.2220196"> Michael de Nie</a>.
 
 I hope to have addressed their concerns in my <a href="https://www.tandfonline.com/doi/abs/10.1080/13688804.2023.2220197">response</a>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/book.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+   Cover
+</div>
