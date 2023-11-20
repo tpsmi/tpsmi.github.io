@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Article "Distant reading 940,000 online circulations of 26 iconic photographs" published in News Media & Society
+title: Article "Distant reading 940,000 online circulations of 26 iconic photographs" published in New Media & Society
 date: 2023-10-18 16:11:00-0400
 inline: false
 related_posts: false
@@ -21,6 +21,3 @@ How do digital media impact the meaning of iconic photographs? Recent studies ha
 <div class="caption">
    Che Guevara
 </div>
-
-
- 
