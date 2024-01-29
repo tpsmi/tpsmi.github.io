@@ -1,0 +1,25 @@
+---
+layout: post
+title: Online meeting: using machine learning to extract images from historical newspapers, periodicals, and magazines
+date: 2023-12-01 07:59:00-0400
+inline: false
+related_posts: false
+---
+
+In the last decades, millions of pages from historical newspapers, periodicals, and magazines have been digitized. Next to words, which have been made machine-readable using OCR, these publications also contain millions of images. Until recently, it was relatively hard to extract, explore, and analyze this treasure trove of historical visual culture. This online meeting aims to bring together projects and scholars who are interested in the first step of studying these images at scale: extracting them from historical sources. Next to a presentation by Shannon Shen on Layout Parser, an easy-to-use toolkit for deep learning-based Document Image Analysis (DIA), we will discuss best practices and pitfalls.
+
+Register via <a href="https://forms.gle/W6sFHffFu8SRHwyW8 ">this form</a>
+
+About our speaker and Layout Parser: <a href="https://www.szj.io/">Shannon Shen</a> is a Ph.D. student at MIT’s CSAIL. He previously was the lead developer of <a href="https://layout-parser.github.io/">Layout Parser</a>: an easy-to-use toolkit for deep learning-based Document Image Analysis.
+
+This meeting is part of the <a href="https://tpsmi.github.io/news/announcement_3/">‘Multimodal AI, Image Analysis, and the Illustrated Periodical Press’ </a> of Thomas Smits, Paul Fyfe, Ben Lee, Irene Testini, and Julia Thomas (funded by the RSVP’s 2023 Field Development Grant). 
+
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/illu01-06-1867_1.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+   Layout Parser applied to L'Illustration (1867)
+</div>
