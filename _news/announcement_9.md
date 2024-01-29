@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: pages
 title: Online meeting: using ML to extract images from periodicals and newspapers
 date: 2024-01-29 07:59:00-0400
 inline: false
