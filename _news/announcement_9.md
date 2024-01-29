@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Online meeting: using machine learning to extract images from historical newspapers, periodicals, and magazines
-date: 2023-12-01 07:59:00-0400
+date: 2024-01-29 07:59:00-0400
 inline: false
 related_posts: false
 ---
@@ -12,7 +12,7 @@ Register via <a href="https://forms.gle/W6sFHffFu8SRHwyW8 ">this form</a>
 
 About our speaker and Layout Parser: <a href="https://www.szj.io/">Shannon Shen</a> is a Ph.D. student at MIT’s CSAIL. He previously was the lead developer of <a href="https://layout-parser.github.io/">Layout Parser</a>: an easy-to-use toolkit for deep learning-based Document Image Analysis.
 
-This meeting is part of the <a href="https://tpsmi.github.io/news/announcement_3/">‘Multimodal AI, Image Analysis, and the Illustrated Periodical Press’ </a> of Thomas Smits, Paul Fyfe, Ben Lee, Irene Testini, and Julia Thomas (funded by the RSVP’s 2023 Field Development Grant). 
+This meeting is part of the <a href="https://tpsmi.github.io/news/announcement_3/">‘Multimodal AI, Image Analysis, and the Illustrated Periodical Press’ </a> of Thomas Smits, Paul Fyfe, Ben Lee, Irene Testini, and Julia Thomas (funded by the RSVP’s 2023 Field Development Grant).
 
 
 <div class="row mt-3">
