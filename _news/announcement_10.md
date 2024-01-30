@@ -23,6 +23,6 @@ This meeting is part of the <a href="https://tpsmi.github.io/news/announcement_3
         </div>
     </div>
     <div class="caption mt-3">
-       Images on a frong page of L'Illustration identified using Layout Parser.
+       Images on a front page of L'Illustration identified using Layout Parser.
     </div>
 </div>
