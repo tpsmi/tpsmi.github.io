@@ -25,6 +25,19 @@ Using this model, we extracted 140,351 illustrations from the Illustrated London
 
 Employing the OpenCLIP AI model, we extracted multimodal embeddings from these images, making them fully searchable with both textual and visual queries. For instance, users can easily find illustrations of railway accidents using the prompt ‘an illustration of a railway accident’ or images of the British parliament using a modern photograph. The embeddings can also be used to cluster all the images of the ILN, identifying various portraits of different types of men or all the maps published by the British periodical (see below).
 
+<div class="container text-center"> <!-- Center the content -->
+    <div class="row mt-3">
+        <div class="col-sm mt-3 mt-md-0">
+            <div class="d-flex justify-content-center"> <!-- Center the image -->
+                {% include figure.html path="assets/img/textsearch.png" class="img-fluid rounded z-depth-1" style="max-width: 50%; height: auto;" %}
+            </div>
+        </div>
+    </div>
+    <div class="caption mt-3">
+       Text search
+    </div>
+</div>
+
 In the coming months, we will expand the dataset to include well-known European and American titles. We will release the code, full dataset, and multimodal embeddings as open access in the fall of 2024.
 
 We hope this dataset will be valuable to scholars of the nineteenth century and its press. Please get in touch if you are interested in working with our data and multimodal embeddings. We plan to organize several online meetings and an in-person workshop in the summer of 2025 to familiarize interested scholars with the data and associated methods.
