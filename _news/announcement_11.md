@@ -1,12 +1,12 @@
 ---
 layout: post
 title: An open-access and fully searchable dataset of the  Illustrated London News (1842-1889)
-date: 2024-06-13 07:59:00-0400
+date: 2024-06-13 08:59:00-0400
 inline: false
 related_posts: false
 ---
 
-We’re excited to present the initial results of our <a href="https://tpsmi.github.io/news/announcement_3/">2023 Patrick Leary Field Development Grant</a> this week at #RSVP2024! After annotating 908 pages, we fine-tuned an object detection model (YoloV8) that can identify illustrations on scanned pages with high accuracy (mAP50 = 0.964).
+We are excited to present the initial results of our <a href="https://tpsmi.github.io/news/announcement_3/">2023 Patrick Leary Field Development Grant</a> this week at #RSVP2024! After annotating 908 pages, we fine-tuned an object detection model (YoloV8) that can identify illustrations on scanned pages with high accuracy (mAP50 = 0.964).
 
 Using this model, we extracted 140,351 illustrations from the Illustrated London News (1842-1889) and four other well-known British illustrated periodicals: The Graphic, Illustrated Times, Pictorial Times, and Illustrated Weekly News (see the table below).
 
