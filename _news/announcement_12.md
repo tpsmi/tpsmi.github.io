@@ -1,7 +1,7 @@
 ---
 layout: post
-title: An open-access and fully searchable dataset of the  Illustrated London News (1842-1889)
-date: 2024-06-13 08:59:00-0400
+title: Online meeting - using ML to extract images from periodicals and newspaper
+date: 2024-06-10 07:59:00-0400
 inline: false
 related_posts: false
 ---
