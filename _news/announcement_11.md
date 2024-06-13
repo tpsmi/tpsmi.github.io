@@ -1,7 +1,7 @@
 ---
 layout: post
 title: An open-access and fully searchable dataset of the  Illustrated London News (1842-1889)
-date: 2024-01-27 07:59:00-0400
+date: 2024-06-13 07:59:00-0400
 inline: false
 related_posts: false
 ---
