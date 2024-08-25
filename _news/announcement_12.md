@@ -22,12 +22,12 @@ Figure 3 plots the autochromes of the collection on a map of France. The line in
     <div class="row mt-3">
         <div class="col-sm mt-3 mt-md-0">
             <div class="d-flex justify-content-center"> <!-- Center the image -->
-                {% include figure.html path="assets/img/kahnfrance.png" class="img-fluid rounded z-depth-1" style="max-width: 50%; height: auto;" %}
+                {% include figure.html path="assets/img/kahnfrance.jpg" class="img-fluid rounded z-depth-1" style="max-width: 50%; height: auto;" %}
             </div>
         </div>
     </div>
     <div class="caption mt-3">
-       Table
+       Figure 3
     </div>
 </div>
 
@@ -37,12 +37,12 @@ Figure 4 plots the autochromes of the collection on a map of the world. The arti
     <div class="row mt-3">
         <div class="col-sm mt-3 mt-md-0">
             <div class="d-flex justify-content-center"> <!-- Center the image -->
-                {% include figure.html path="assets/img/kahnworld.png" class="img-fluid rounded z-depth-1" style="max-width: 50%; height: auto;" %}
+                {% include figure.html path="assets/img/kahnworld.jpg" class="img-fluid rounded z-depth-1" style="max-width: 50%; height: auto;" %}
             </div>
         </div>
     </div>
     <div class="caption mt-3">
-       Table
+       Figure 4
     </div>
 </div>
 
@@ -52,12 +52,12 @@ The second part of the article shows how we can use multimodal machine learning 
     <div class="row mt-3">
         <div class="col-sm mt-3 mt-md-0">
             <div class="d-flex justify-content-center"> <!-- Center the image -->
-                {% include figure.html path="assets/img/kahnkmeans.png" class="img-fluid rounded z-depth-1" style="max-width: 50%; height: auto;" %}
+                {% include figure.html path="assets/img/kahnkmeans.jpg" class="img-fluid rounded z-depth-1" style="max-width: 50%; height: auto;" %}
             </div>
         </div>
     </div>
     <div class="caption mt-3">
-       Table
+       Figure 6
     </div>
 </div>
 
@@ -67,11 +67,11 @@ Figure 7 displays the 6 autochromes nearest to the 12 cluster centroids: the mea
     <div class="row mt-3">
         <div class="col-sm mt-3 mt-md-0">
             <div class="d-flex justify-content-center"> <!-- Center the image -->
-                {% include figure.html path="assets/img/kahnclusters.png" class="img-fluid rounded z-depth-1" style="max-width: 50%; height: auto;" %}
+                {% include figure.html path="assets/img/kahnclusters.jpg" class="img-fluid rounded z-depth-1" style="max-width: 50%; height: auto;" %}
             </div>
         </div>
     </div>
     <div class="caption mt-3">
-       Table
+       Figure 7
     </div>
 </div>
