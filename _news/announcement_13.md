@@ -44,7 +44,7 @@ Please get in touch if you have any feedback!
     <div class="row mt-3">
         <div class="col-sm mt-3 mt-md-0">
             <div class="d-flex justify-content-center"> <!-- Center the image -->
-                {% include figure.html path="assets/img/shap.png\" class="img-fluid rounded z-depth-1" style="max-width: 50%; height: auto;" %}
+                {% include figure.html path="assets/img/shap.png" class="img-fluid rounded z-depth-1" style="max-width: 50%; height: auto;" %}
             </div>
         </div>
     </div>
