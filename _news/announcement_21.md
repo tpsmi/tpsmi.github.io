@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Grant: NWOxs grant for "Terraforming from Above: Digital Methods for Colonial Aerial Photography" 
+title: NWOxs grant for "Terraforming from Above. Digital Methods for Colonial Aerial Photography" 
 date: 2026-01-12 07:59:00-0400
 inline: false
 related_posts: false

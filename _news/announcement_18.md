@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New Article: (Machine) Learning about the Victorians
+title: New Article (Machine) Learning about the Victorians
 date: 2025-09-12 07:59:00-0400
 inline: false
 related_posts: false

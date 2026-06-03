@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New Paper: Quantifying Archival Silences in the proceedings of CHR 2025
+title: New Paper Quantifying Archival Silences in the proceedings of CHR 2025
 date: 2025-10-01 07:59:00-0400
 inline: false
 related_posts: false

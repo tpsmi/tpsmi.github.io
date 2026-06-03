@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New article: Projecting cities: illustrated lantern lectures as forgotten practice of place promotion in Belgium
+title: New article "Projecting cities illustrated lantern lectures as forgotten practice of place promotion in Belgium"
 date: 2025-12-15 07:59:00-0400
 inline: false
 related_posts: false
