@@ -20,5 +20,5 @@ social: true
 ---
 
 <div style="font-size: 1.3em; line-height: 1.6;">
-Hi there! 👋 I am an Assistant Professor of Digital History & AI at the University of Amsterdam. I'm a historian of modern visual (news) culture. Most of my work is located at the intersection of media history, media studies, and digital humanities. I apply digital methods to study large collections of historical illustrations, photographs and other images.
+Hi there! 👋👋 I am an Assistant Professor of Digital History & AI at the University of Amsterdam. I study how visual media — illustrated magazines, news photographs, maps, and other images — have shaped public understanding of the world, from Victorian Britain to the Cold War era. My work sits at the intersection of media history, environmental history, and the computational humanities: I use multimodal AI to analyze large historical image collections at a scale that was previously impossible. I am currently using AI to analyze colonial aerial photographs and maps of Indonesia to reconstruct how land was used and transformed under Dutch colonialism
 </div>
